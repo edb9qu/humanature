@@ -25,13 +25,13 @@ h1{
     radial-gradient(2px 2px at 90px 40px, #fff, rgba(0,0,0,0)),
     radial-gradient(1px 1px at 130px 80px, #fff, rgba(0,0,0,0)),
     radial-gradient(2px 2px at 160px 120px, #ddd, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 190px 150px, #fff, rgba(0,0,0,0)),
-    radial-gradient(2px 2px at 220px 180px, #ddd, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 250px 220px, #fff, rgba(0,0,0,0)),
-    radial-gradient(2px 2px at 290px 260px, #ddd, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 320px 280px, #fff, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 360px 310px, #ddd, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 390px 350px, #fff, rgba(0,0,0,0)),;
-  background-size: 400px 400px; /*expanded, hope to make it more random */
+    radial-gradient(1px 1px at 190px 150px, #fff, rgba(0,0,0,0));
+    /* radial-gradient(2px 2px at 220px 180px, #ddd, rgba(0,0,0,0)), */
+    /* radial-gradient(1px 1px at 250px 220px, #fff, rgba(0,0,0,0)), */
+    /* radial-gradient(2px 2px at 290px 260px, #ddd, rgba(0,0,0,0)), */
+    /* radial-gradient(1px 1px at 320px 280px, #fff, rgba(0,0,0,0)), */
+    /* radial-gradient(1px 1px at 360px 310px, #ddd, rgba(0,0,0,0)), */
+    /* radial-gradient(1px 1px at 390px 350px, #fff, rgba(0,0,0,0)),; */
+  background-size: 200px 200px; /*expanded, hope to make it more random */
   background-repeat: repeat;
 }
